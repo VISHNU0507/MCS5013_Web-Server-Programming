@@ -1,0 +1,78 @@
+{
+  "classes": [
+    {
+      "id": "c1",
+      "title": "Yoga for Beginners",
+      "description": "A relaxing intro to Vinyasa with focus on breathing and posture.",
+      "datetime": "2025-11-12T18:30:00Z",
+      "location": "Studio A",
+      "capacity": 20,
+      "seatsRemaining": 1
+    },
+    {
+      "id": "c2",
+      "title": "HIIT Circuit",
+      "description": "High-intensity interval training. Short bursts, maximum sweat.",
+      "datetime": "2025-11-15T14:00:00Z",
+      "location": "The Yard",
+      "capacity": 30,
+      "seatsRemaining": 10
+    },
+    {
+      "id": "c3",
+      "title": "Evening Strength Training",
+      "description": "Full body strength session with dumbbells and resistance bands.",
+      "datetime": "2025-11-20T17:00:00Z",
+      "location": "Weight Room",
+      "capacity": 25,
+      "seatsRemaining": 19
+    }
+  ],
+  "posts": [
+    {
+      "id": "p1",
+      "user": "Alex",
+      "message": "Just finished Yoga! Feeling super relaxed and focused 🧘‍♂️",
+      "datetime": "2025-11-01T12:00:00Z"
+    },
+    {
+      "id": "p2",
+      "user": "Sam",
+      "message": "HIIT Circuit was insane today. Totally worth it 💪",
+      "datetime": "2025-11-02T15:30:00Z"
+    },
+    {
+      "id": "p3",
+      "user": "Jordan",
+      "message": "Anyone joining the strength session this evening?",
+      "datetime": "2025-11-03T18:45:00Z"
+    },
+    {
+      "user": "alexx",
+      "message": "js",
+      "datetime": "2025-11-16T00:38:21.141Z",
+      "id": "P4aUl3c"
+    },
+    {
+      "user": "alexx",
+      "message": "ojj",
+      "datetime": "2025-11-16T00:38:26.376Z",
+      "id": "ZeNX4BE"
+    }
+  ],
+  "bookings": [
+    {
+      "classId": "c1",
+      "userId": "u1",
+      "status": "yes",
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "id": "u1",
+      "name": "Alex Student",
+      "email": "alex@example.edu"
+    }
+  ]
+}

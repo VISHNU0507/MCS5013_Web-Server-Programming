@@ -1,0 +1,102 @@
+{
+  "classes": [
+    {
+      "id": "c1",
+      "title": "Yoga for Beginners",
+      "description": "A relaxing intro to Vinyasa with focus on breathing and posture.",
+      "datetime": "2025-11-12T18:30:00Z",
+      "location": "Studio A",
+      "capacity": 20,
+      "seatsRemaining": 1
+    },
+    {
+      "id": "c2",
+      "title": "HIIT Circuit",
+      "description": "High-intensity interval training. Short bursts, maximum sweat.",
+      "datetime": "2025-11-15T14:00:00Z",
+      "location": "The Yard",
+      "capacity": 30,
+      "seatsRemaining": 9
+    },
+    {
+      "id": "c3",
+      "title": "Evening Strength Training",
+      "description": "Full body strength session with dumbbells and resistance bands.",
+      "datetime": "2025-11-20T17:00:00Z",
+      "location": "Weight Room",
+      "capacity": 25,
+      "seatsRemaining": 18
+    }
+  ],
+  "posts": [
+    {
+      "id": "p1",
+      "user": "Alex",
+      "message": "Just finished Yoga! Feeling super relaxed and focused 🧘‍♂️",
+      "datetime": "2025-11-01T12:00:00Z"
+    },
+    {
+      "id": "p2",
+      "user": "Sam",
+      "message": "HIIT Circuit was insane today. Totally worth it 💪",
+      "datetime": "2025-11-02T15:30:00Z"
+    },
+    {
+      "id": "p3",
+      "user": "Jordan",
+      "message": "Anyone joining the strength session this evening?",
+      "datetime": "2025-11-03T18:45:00Z"
+    },
+    {
+      "user": "alexx",
+      "message": "js",
+      "datetime": "2025-11-16T00:38:21.141Z",
+      "id": "P4aUl3c"
+    },
+    {
+      "user": "alexx",
+      "message": "ojj",
+      "datetime": "2025-11-16T00:38:26.376Z",
+      "id": "ZeNX4BE"
+    },
+    {
+      "user": "alexx",
+      "message": "test post",
+      "datetime": "2025-11-19T18:59:20.844Z",
+      "id": "CTXORvc"
+    },
+    {
+      "user": "vishnu",
+      "message": "test",
+      "datetime": "2025-11-24T20:09:52.247Z",
+      "id": "g7-llqy"
+    },
+    {
+      "user": "test",
+      "message": "test 2",
+      "datetime": "2025-11-24T20:10:53.690Z",
+      "id": "9LfwWh8"
+    }
+  ],
+  "bookings": [
+    {
+      "classId": "c3",
+      "userId": "u1",
+      "status": "yes",
+      "id": 2
+    },
+    {
+      "classId": "c2",
+      "userId": "u1",
+      "status": "yes",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "id": "u1",
+      "name": "Vishnu",
+      "email": "vishnu@example.edu"
+    }
+  ]
+}
